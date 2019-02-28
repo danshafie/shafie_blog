@@ -18,6 +18,9 @@
     margin: 0;
     margin: 0 auto;
     margin-bottom: 2rem;
+    a {
+      text-decoration: none;
+    }
 
     @media (min-width: $tablet) {
       width: calc(25% - 2rem);
